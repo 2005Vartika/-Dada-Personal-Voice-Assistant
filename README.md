@@ -7,7 +7,6 @@
 ## 🎯 Features
 
 - 🎤 Voice input via microphone using `speech_recognition`
-- 🗣️ Text-to-speech replies with `pyttsx3`
 - 🤖 AI chat responses via **OpenRouter API** (`deepseek-mixtral-8x7b-instruct`)
 - 🔍 Google search and web browsing
 - ▶️ YouTube video playback using `pywhatkit`
